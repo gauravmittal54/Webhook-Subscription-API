@@ -1,4 +1,5 @@
 # Webhook-Subscription-API
+An API for managing webhooks. It includes features for creating, listing, retrieving, updating, and deleting webhooks. Additionally, it allows firing events to active webhooks using Celery tasks.
 
 ## Prerequisites
 Before running the project, make sure you have the following installed:
